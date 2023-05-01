@@ -121,7 +121,7 @@ public class CompletionChecker : MonoBehaviour
                 expectedImageTags[1] = new string[10];
                 expectedImageTags[1][0] = "X2";
                 expectedImageTags[1][1] = "voi";
-                expectedImageTags[1][1] = "X1";
+                expectedImageTags[1][2] = "X1";
                 break;   
                 
                 
